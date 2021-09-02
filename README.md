@@ -6,7 +6,7 @@ Since 2016 I've been living and breathing web development and creating web and m
 
 ### 🔭 I’m currently working on
 
-ReactJS | Angular | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github
+ReactJS | Angular | JavaScript | TypeScript | Express | GraphQL | NodeJS | AWS | Github | No Relation Database | Relation Database
 ### What I'm focusing on 👨‍💻
 Website development using MERN stack
 
